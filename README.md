@@ -3,6 +3,6 @@ from the 20 most popular palettes on [Kuler](https://kuler.adobe.com/). To run t
 you'll need the following:
 
   - http://processing.org
-  - https://github.com/hellonico/colorlib
+  - https://github.com/hellonico/colorlib (binary jar: [download](http://cloud.carlos-rodrigues.com/processing/colorLib.jar))
 
 You can watch a video for this here: https://vimeo.com/23049949
